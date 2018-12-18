@@ -1,0 +1,9 @@
+{
+    "screen_2": {
+        "elementsData": {
+            "heading": "Screen 2 MCQ Screen",
+            "submitButton": "Submit",
+            "prevButton": "Previous"
+        }
+    }
+}

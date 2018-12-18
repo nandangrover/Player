@@ -1,0 +1,9 @@
+{
+    "screen_3": {
+        "elementsData": {
+            "heading": "Screen 3 RDT Screen",
+            "submitButton": "Submit",
+            "prevButton": "Previous"
+        }
+    }
+}

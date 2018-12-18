@@ -1,0 +1,289 @@
+{
+    "screen_3": {
+        "anskey": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "createElements": {
+            "wrapper": {
+                "class": "wrapper",
+                "id": "mainWrapper",
+                "append": "templateWrapper_3",
+                "type": "div",
+                "css": {
+                    "width": "1000px",
+                    "height": "800px",
+                    "position": "absolute"
+                }
+            },
+            "heading": {
+                "class": "heading",
+                "id": "heading",
+                "append": "wrapper",
+                "type": "div",
+                "css": {
+                    "width": "990px",
+                    "height": "73px",
+                    "fontSize": "45px",
+                    "backgroundColor": "beige",
+                    "textAlign": "center",
+                    "padding": "20px 0 20px 0",
+                    "fontFamily": "cursive",
+                    "border": "5px solid #acb3ac",
+                    "borderRadius": "10px",
+                    "position": "absolute"
+                }
+            },
+            "checkBoxHolder": {
+                "class": "checkBoxHolder",
+                "id": "checkBoxHolder",
+                "append": "wrapper",
+                "type": "div",
+                "css": {
+                    "top": "181px",
+                    "position": "relative"
+                }
+            },
+            "checkBox_0": {
+                "class": "checkBox_0",
+                "id": "checkBox_0",
+                "append": "checkBoxHolder",
+                "type": "button",
+                "css": {
+                    "width": "50px",
+                    "height": "50px",
+                    "border": "4px solid rgb(174, 106, 106)",
+                    "fontSize": "29px",
+                    "position": "relative",
+                    "display": "table",
+                    "verticalAlign": "middle",
+                    "outline": "none",
+                    "textAlign": "center",
+                    "cursor": "pointer",
+                    "backgroundColor": "transparent",
+                    "marginBottom": "20px",
+                    "marginLeft": "30px",
+                    "borderRadius": "50%"
+                }
+            },
+            "selected_0": {
+                "class": "selected",
+                "id": "selected_0",
+                "append": "checkBox_0",
+                "type": "div",
+                "css": {
+                    "width": "25px",
+                    "height": "25px",
+                    "backgroundColor": "black",
+                    "position": "relative",
+                    "outline": "none",
+                    "cursor": "pointer",
+                    "marginLeft": "3px",
+                    "borderRadius": "50%",
+                    "display": "none"
+                }
+            },
+            "checkBox_1": {
+                "class": "checkBox_1",
+                "id": "checkBox_1",
+                "append": "checkBoxHolder",
+                "type": "button",
+                "css": {
+                    "width": "50px",
+                    "height": "50px",
+                    "border": "4px solid rgb(174, 106, 106)",
+                    "fontSize": "29px",
+                    "position": "relative",
+                    "display": "table",
+                    "verticalAlign": "middle",
+                    "outline": "none",
+                    "textAlign": "center",
+                    "cursor": "pointer",
+                    "backgroundColor": "transparent",
+                    "marginBottom": "20px",
+                    "marginLeft": "30px",
+                    "borderRadius": "50%"
+                }
+            },
+            "selected_1": {
+                "class": "selected",
+                "id": "selected_1",
+                "append": "checkBox_1",
+                "type": "div",
+                "css": {
+                    "width": "25px",
+                    "height": "25px",
+                    "backgroundColor": "black",
+                    "position": "relative",
+                    "outline": "none",
+                    "cursor": "pointer",
+                    "marginLeft": "3px",
+                    "borderRadius": "50%",
+                    "display": "none"
+                }
+            },
+            "checkBox_2": {
+                "class": "checkBox_2",
+                "id": "checkBox_2",
+                "append": "checkBoxHolder",
+                "type": "button",
+                "css": {
+                    "width": "50px",
+                    "height": "50px",
+                    "border": "4px solid rgb(174, 106, 106)",
+                    "fontSize": "29px",
+                    "position": "relative",
+                    "display": "table",
+                    "verticalAlign": "middle",
+                    "outline": "none",
+                    "textAlign": "center",
+                    "cursor": "pointer",
+                    "backgroundColor": "transparent",
+                    "marginBottom": "20px",
+                    "marginLeft": "30px",
+                    "borderRadius": "50%"
+                }
+            },
+            "selected_2": {
+                "class": "selected",
+                "id": "selected_2",
+                "append": "checkBox_2",
+                "type": "div",
+                "css": {
+                    "width": "25px",
+                    "height": "25px",
+                    "backgroundColor": "black",
+                    "position": "relative",
+                    "outline": "none",
+                    "cursor": "pointer",
+                    "marginLeft": "3px",
+                    "borderRadius": "50%",
+                    "display": "none"
+                }
+            },
+            "checkBox_3": {
+                "class": "checkBox_3",
+                "id": "checkBox_3",
+                "append": "checkBoxHolder",
+                "type": "button",
+                "css": {
+                    "width": "50px",
+                    "height": "50px",
+                    "border": "4px solid rgb(174, 106, 106)",
+                    "fontSize": "29px",
+                    "position": "relative",
+                    "display": "table",
+                    "verticalAlign": "middle",
+                    "outline": "none",
+                    "textAlign": "center",
+                    "cursor": "pointer",
+                    "backgroundColor": "transparent",
+                    "marginBottom": "20px",
+                    "marginLeft": "30px",
+                    "borderRadius": "50%"
+                }
+            },
+            "selected_3": {
+                "class": "selected",
+                "id": "selected_3",
+                "append": "checkBox_3",
+                "type": "div",
+                "css": {
+                    "width": "25px",
+                    "height": "25px",
+                    "backgroundColor": "black",
+                    "position": "relative",
+                    "outline": "none",
+                    "cursor": "pointer",
+                    "marginLeft": "3px",
+                    "borderRadius": "50%",
+                    "display": "none"
+                }
+            },
+            "checkBox_4": {
+                "class": "checkBox_4",
+                "id": "checkBox_4",
+                "append": "checkBoxHolder",
+                "type": "button",
+                "css": {
+                    "width": "50px",
+                    "height": "50px",
+                    "border": "4px solid rgb(174, 106, 106)",
+                    "fontSize": "29px",
+                    "position": "relative",
+                    "display": "table",
+                    "verticalAlign": "middle",
+                    "outline": "none",
+                    "textAlign": "center",
+                    "cursor": "pointer",
+                    "backgroundColor": "transparent",
+                    "marginBottom": "20px",
+                    "marginLeft": "30px",
+                    "borderRadius": "50%"
+                }
+            },
+            "selected_4": {
+                "class": "selected",
+                "id": "selected_4",
+                "append": "checkBox_4",
+                "type": "div",
+                "css": {
+                    "width": "25px",
+                    "height": "25px",
+                    "backgroundColor": "black",
+                    "position": "relative",
+                    "outline": "none",
+                    "cursor": "pointer",
+                    "marginLeft": "3px",
+                    "borderRadius": "50%",
+                    "display": "none"
+                }
+            },
+            "submitButton": {
+                "class": "submitButton",
+                "id": "submitButton",
+                "append": "wrapper",
+                "type": "button",
+                "css": {
+                    "width": "179px",
+                    "height": "50px",
+                    "fontSize": "29px",
+                    "position": "absolute",
+                    "verticalAlign": "middle",
+                    "outline": "none",
+                    "textAlign": "center",
+                    "top": "484px",
+                    "right": "100px",
+                    "border": "none",
+                    "cursor": "pointer",
+                    "backgroundColor": "#FF5722",
+                    "color": "white"
+                }
+            },
+            "prevButton": {
+                "class": "prevButton",
+                "id": "prevButton",
+                "append": "wrapper",
+                "type": "button",
+                "css": {
+                    "width": "179px",
+                    "height": "50px",
+                    "fontSize": "29px",
+                    "position": "absolute",
+                    "verticalAlign": "middle",
+                    "outline": "none",
+                    "textAlign": "center",
+                    "top": "484px",
+                    "right": "350px",
+                    "border": "none",
+                    "cursor": "pointer",
+                    "backgroundColor": "#FF5722",
+                    "color": "white"
+                }
+            }
+        }
+    }
+}

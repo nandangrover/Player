@@ -1,0 +1,28 @@
+{
+    "screens": [
+        {
+            "name": "screen_1",
+            "className": "MCQT"
+        },
+        {
+            "name": "screen_2",
+            "className": "MCQT"
+        },
+        {
+            "name": "screen_3",
+            "className": "RDT"
+        },
+        {
+            "name": "screen_4",
+            "className": "MCQT"
+        },
+        {
+            "name": "screen_5",
+            "className": "RDT"
+        },
+        {
+            "name": "screen_6",
+            "className": "Result"
+        }
+    ]
+}
